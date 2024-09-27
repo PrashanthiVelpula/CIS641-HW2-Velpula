@@ -11,4 +11,4 @@ I have experience in both front-end and back-end development. During my career a
 - **Tools:** Eclipse, Visual Studio Code, Git
 - **Networking:** TCP/IP, DNS, DHCP
 ### Favorite Meme
-![Here's a link to my favorite meme](https://www.boredpanda.com/blog/wp-content/uploads/2024/02/cat-memes-catsweek-7-65d5d6d1d7107__700.jpg)
+![Here's a link to my favorite meme](https://www.boredpanda.com/blog/wp-content/uploads/2024/02/cat-memes-catsweek-23-65d60b2c360e0__700.jpg)
