@@ -3,7 +3,7 @@
 - Building full-stack web applications
 - Exploring new tools and technologies in software development
 - Learning more about AI and machine learning for future projects
-### Technical Background
+## Technical Background
 I have experience in both front-end and back-end development. During my career as a web programmer, I have worked on various projects utilizing the following technologies:
 - **Languages:** C, C++, Java, Python
 - **Web Technologies:** HTML, CSS, Bootstrap, JavaScript, ReactJS, REST APIs
